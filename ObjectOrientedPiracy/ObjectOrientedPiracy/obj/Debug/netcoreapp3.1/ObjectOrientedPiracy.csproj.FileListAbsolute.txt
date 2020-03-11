@@ -1,0 +1,11 @@
+C:\Users\marcus.legault\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\bin\Debug\netcoreapp3.1\ObjectOrientedPiracy.exe
+C:\Users\marcus.legault\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\bin\Debug\netcoreapp3.1\ObjectOrientedPiracy.deps.json
+C:\Users\marcus.legault\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\bin\Debug\netcoreapp3.1\ObjectOrientedPiracy.runtimeconfig.json
+C:\Users\marcus.legault\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\bin\Debug\netcoreapp3.1\ObjectOrientedPiracy.runtimeconfig.dev.json
+C:\Users\marcus.legault\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\bin\Debug\netcoreapp3.1\ObjectOrientedPiracy.dll
+C:\Users\marcus.legault\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\bin\Debug\netcoreapp3.1\ObjectOrientedPiracy.pdb
+C:\Users\marcus.legault\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\obj\Debug\netcoreapp3.1\ObjectOrientedPiracy.csprojAssemblyReference.cache
+C:\Users\marcus.legault\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\obj\Debug\netcoreapp3.1\ObjectOrientedPiracy.AssemblyInfoInputs.cache
+C:\Users\marcus.legault\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\obj\Debug\netcoreapp3.1\ObjectOrientedPiracy.AssemblyInfo.cs
+C:\Users\marcus.legault\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\obj\Debug\netcoreapp3.1\ObjectOrientedPiracy.dll
+C:\Users\marcus.legault\source\repos\ObjectOrientedPiracy\ObjectOrientedPiracy\obj\Debug\netcoreapp3.1\ObjectOrientedPiracy.pdb

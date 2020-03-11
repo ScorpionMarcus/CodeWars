@@ -1,0 +1,11 @@
+C:\Users\marcus.legault\source\repos\EasyLine\EasyLine\bin\Debug\netcoreapp3.1\EasyLine.exe
+C:\Users\marcus.legault\source\repos\EasyLine\EasyLine\bin\Debug\netcoreapp3.1\EasyLine.deps.json
+C:\Users\marcus.legault\source\repos\EasyLine\EasyLine\bin\Debug\netcoreapp3.1\EasyLine.runtimeconfig.json
+C:\Users\marcus.legault\source\repos\EasyLine\EasyLine\bin\Debug\netcoreapp3.1\EasyLine.runtimeconfig.dev.json
+C:\Users\marcus.legault\source\repos\EasyLine\EasyLine\bin\Debug\netcoreapp3.1\EasyLine.dll
+C:\Users\marcus.legault\source\repos\EasyLine\EasyLine\bin\Debug\netcoreapp3.1\EasyLine.pdb
+C:\Users\marcus.legault\source\repos\EasyLine\EasyLine\obj\Debug\netcoreapp3.1\EasyLine.csprojAssemblyReference.cache
+C:\Users\marcus.legault\source\repos\EasyLine\EasyLine\obj\Debug\netcoreapp3.1\EasyLine.AssemblyInfoInputs.cache
+C:\Users\marcus.legault\source\repos\EasyLine\EasyLine\obj\Debug\netcoreapp3.1\EasyLine.AssemblyInfo.cs
+C:\Users\marcus.legault\source\repos\EasyLine\EasyLine\obj\Debug\netcoreapp3.1\EasyLine.dll
+C:\Users\marcus.legault\source\repos\EasyLine\EasyLine\obj\Debug\netcoreapp3.1\EasyLine.pdb
